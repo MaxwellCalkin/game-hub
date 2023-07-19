@@ -6,7 +6,7 @@
 
 ### Portfolio Site including links to my projects and ways to get in contact with me.
 
-## Tech used: ![NODE BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=23555f&style=plastic&logo=node)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![TYPESCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=3c7f5d&style=plastic&logo=typescript)
+## Tech used: ![NODEJS BADGE](https://img.shields.io/static/v1?label=|&message=NODEJS&color=23555f&style=plastic&logo=nodejs)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![TYPESCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=3c7f5d&style=plastic&logo=typescript)![MONGODB BADGE](https://img.shields.io/static/v1?label=|&message=MONGODB&color=3c7f5d&style=plastic&logo=mongodb)
 
 
 My learning was focused on making a simple UI and a smooth UX, and have a seasonal animation for dark-mode. 
