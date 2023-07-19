@@ -41,10 +41,10 @@ This app is pretty well refactored, but I know I could restructure the files to 
         </a>
     </td>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://github.com/MaxwellCalkin/star-trek-full-stack">Star Trek Full Stack</a>
-        <br />
-        <a target="_blank" href="https://github.com/MaxwellCalkin/star-trek-full-stack">
-          <img src="https://thumbs.gfycat.com/EachPositiveAmericancurl-size_restricted.gif" width="100%" alt="Star Trek App"/>
+<a target="_blank" href="https://github.com/MaxwellCalkin/portfolio">My Portfolio</a>
+      <br />
+        <a target="_blank" href="https://github.com/MaxwellCalkin/portfolio">
+          <img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/portfolio.png" width="100%" alt="MLB Simulator"/>
         </a>
     </td>
   </tr>
