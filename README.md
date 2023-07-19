@@ -1,12 +1,12 @@
 # Vapor Game Hub: <a target="_blank" href="https://www.game-hub-phi-vert.vercel.app">Visit Here</a>
 
 <a target="_blank" href="https://www.game-hub-phi-vert.vercel.app">
-<img src="https://github.com/MaxwellCalkin/MaxwellCalkin/blob/main/images/portfolio.png" width="100%" alt="Portfolio"/>
+<img src="https://github.com/MaxwellCalkin/portfolio/blob/main/images/gameHub.gif" width="100%" alt="Portfolio"/>
 </a>
 
 ### Portfolio Site including links to my projects and ways to get in contact with me.
 
-## Tech used: ![HTML5 BADGE](https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5)![CSS BADGE](https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3)![JAVASCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript)
+## Tech used: ![NODE BADGE](https://img.shields.io/static/v1?label=|&message=NODE&color=23555f&style=plastic&logo=node)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![TYPESCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=3c7f5d&style=plastic&logo=typescript)
 
 
 My learning was focused on making a simple UI and a smooth UX, and have a seasonal animation for dark-mode. 
