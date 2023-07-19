@@ -1,25 +1,24 @@
-# Vapor Game Hub: <a target="_blank" href="https://www.game-hub-phi-vert.vercel.app">Visit Here</a>
+# Vapor - Game Hub: <a target="_blank" href="https://www.game-hub-phi-vert.vercel.app">Visit Here</a>
 
 <a target="_blank" href="https://www.game-hub-phi-vert.vercel.app">
 <img src="https://github.com/MaxwellCalkin/portfolio/blob/main/images/gameHub.gif" width="100%" alt="Portfolio"/>
 </a>
 
-### Portfolio Site including links to my projects and ways to get in contact with me.
+### A virtual shop to browse your favorite games
 
 ## Tech used: ![NODE.JS BADGE](https://img.shields.io/static/v1?label=|&message=NODE.JS&color=23555f&style=plastic&logo=node.js)![REACT BADGE](https://img.shields.io/static/v1?label=|&message=REACT&color=285f65&style=plastic&logo=react)![TYPESCRIPT BADGE](https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=3c7f5d&style=plastic&logo=typescript)![MONGODB BADGE](https://img.shields.io/static/v1?label=|&message=MONGODB&color=3c7f5d&style=plastic&logo=mongodb)
 
 
-My learning was focused on making a simple UI and a smooth UX, and have a seasonal animation for dark-mode. 
-
 ## Optimizations
 
-When I improve this project, I would start by updating the spring and summer amimation of rain and fireflies. Currrently have fall and winter finished just need to add the other too into the Date checker. Would also like to add some javascript to add gifs to front page.
+I am thinking of turning this app into a full videogame e-shop including interactions with a cart and maybe even the ability to purchase real digital goods.
+This app is pretty well refactored, but I know I could restructure the files to make it a little cleaner.
 
 ## Lessons Learned:
 
-Seperation of Concerns. Realized how much easier it is to add css animations than to add custom javascript to change hover interactions
-
-
+- Caching and Infinite scroll using React Query
+- Production Quality Code with Typescript
+- Working with RESTful APIs with the MERN + Typescript stack
 
 
 ## More Projects
