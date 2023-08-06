@@ -21,6 +21,7 @@ class APIClient<T> {
   }
 
   getAll = (config: AxiosRequestConfig) => {
+    console.log("got ALLL");
     return axiosInstance
       .get<FetchResponse<T>>(this.endpoint, config)
       .then((res) => res.data);
@@ -28,7 +29,6 @@ class APIClient<T> {
 
   get = (id: number | string) => {
     return axiosInstance.get<T>(this.endpoint + "/" + id).then((res) => {
-      console.log(res);
       return res.data;
     });
   };
